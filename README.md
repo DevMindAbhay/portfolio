@@ -16,6 +16,15 @@ This project was built using these technologies.
 
 **📱 Fully Responsive**
 
+## Why do you need a portfolio? ☝
+
+- Professional way to showcase your work
+
+- Increases your visibility and online presence
+
+- Shows you're more than just a resume
+
+
 
 
 ### Show your support
